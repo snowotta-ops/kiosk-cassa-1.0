@@ -1,0 +1,2 @@
+{"name":"Киоск: учет продаж","short_name":"Киоск","start_url":"./index.html","scope":"./","display":"standalone","orientation":"portrait","background_color":"#1B2A27","theme_color":"#1B2A27","lang":"ru",
+"icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
